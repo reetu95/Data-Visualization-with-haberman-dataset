@@ -1,1 +1,1 @@
-Data visualization with Haberman dataset
+EDA with Haberman dataset
